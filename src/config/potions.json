@@ -1,0 +1,461 @@
+{
+  "fool_9": {
+    "id": "fool_9",
+    "name": "占卜家魔药",
+    "sequence": 9,
+    "pathway": "fool",
+    "description": "服食后可获得占卜家非凡能力，能够通过占卜预知危险，使用简单的占卜仪式。能「看」到被挡住的事物，「听」到微弱的脚步声，从而提前做出判断。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 1000,
+    "mainMaterials": [
+      {
+        "id": "octopus_blood",
+        "name": "拉瓦章鱼血液",
+        "count": 10,
+        "unit": "ml"
+      },
+      {
+        "id": "star_crystal",
+        "name": "星水晶",
+        "count": 50,
+        "unit": "g"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "pure_water",
+        "name": "纯水",
+        "count": 100,
+        "unit": "ml"
+      },
+      {
+        "id": "night_flower_juice",
+        "name": "夜香草汁液",
+        "count": 13,
+        "unit": "滴"
+      },
+      {
+        "id": "golden_mint",
+        "name": "金薄荷叶子",
+        "count": 7,
+        "unit": "片"
+      },
+      {
+        "id": "aconite_juice",
+        "name": "毒堇汁",
+        "count": 3,
+        "unit": "滴"
+      },
+      {
+        "id": "dragon_blood_grass",
+        "name": "龙血草粉末",
+        "count": 9,
+        "unit": "g"
+      }
+    ],
+    "difficulty": 0.3
+  },
+  "fool_8": {
+    "id": "fool_8",
+    "name": "小丑魔药",
+    "sequence": 8,
+    "pathway": "fool",
+    "description": "服食后可获得小丑非凡能力。极大提高身体协调性，强化力量、敏捷和速度。能几乎完美地控制表情和肢体语言，可以将任意纸张掷出并使其锋利如刀刃。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 2000,
+    "mainMaterials": [
+      {
+        "id": "hornachis_crystal",
+        "name": "霍纳奇斯灰山羊独角结晶",
+        "count": 1,
+        "unit": "个"
+      },
+      {
+        "id": "human_face_rose",
+        "name": "完整的人面玫瑰",
+        "count": 1,
+        "unit": "朵"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "pure_water",
+        "name": "纯水",
+        "count": 80,
+        "unit": "ml"
+      },
+      {
+        "id": "mandragora_juice",
+        "name": "曼陀罗汁液",
+        "count": 5,
+        "unit": "滴"
+      },
+      {
+        "id": "black_sunflower",
+        "name": "黑边太阳花粉末",
+        "count": 7,
+        "unit": "g"
+      },
+      {
+        "id": "gold_cloak_grass",
+        "name": "金斗篷草粉末",
+        "count": 10,
+        "unit": "g"
+      },
+      {
+        "id": "aconite_juice",
+        "name": "毒堇汁",
+        "count": 3,
+        "unit": "滴"
+      }
+    ],
+    "difficulty": 0.4
+  },
+  "fool_7": {
+    "id": "fool_7",
+    "name": "魔术师魔药",
+    "sequence": 7,
+    "pathway": "fool",
+    "description": "服食后可获得魔术师非凡能力。可以转移伤害、火焰跳跃、制造空气弹、使用纸人替身、操纵火焰、制造幻觉、水下呼吸、骨骼软化等能力。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 3000,
+    "mainMaterials": [
+      {
+        "id": "misttree_root",
+        "name": "迷雾树人的真实根茎",
+        "count": 1,
+        "unit": "块"
+      },
+      {
+        "id": "black_panther_marrow",
+        "name": "邪纹黑豹的全部脊髓液",
+        "count": 1,
+        "unit": "份"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "pure_water",
+        "name": "纯水",
+        "count": 60,
+        "unit": "ml"
+      },
+      {
+        "id": "misttree_juice",
+        "name": "迷雾树人的汁液",
+        "count": 30,
+        "unit": "ml"
+      },
+      {
+        "id": "water_crystal",
+        "name": "水形宝石粉末",
+        "count": 3,
+        "unit": "g"
+      },
+      {
+        "id": "illusion_grass_oil",
+        "name": "迷幻草精油",
+        "count": 4,
+        "unit": "滴"
+      }
+    ],
+    "difficulty": 0.5
+  },
+  "fool_6": {
+    "id": "fool_6",
+    "name": "无面人魔药",
+    "sequence": 6,
+    "pathway": "fool",
+    "description": "服食后可获得无面人非凡能力。获得对他人外貌和细微动作的极强观察力和记忆力，可以改变相貌和声音成为他人的样子。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 5000,
+    "mainMaterials": [
+      {
+        "id": "faceless_hunter_brain",
+        "name": "千面狩猎者异变的脑垂体",
+        "count": 1,
+        "unit": "个"
+      },
+      {
+        "id": "skin_shadow",
+        "name": "人皮幽影的特性",
+        "count": 1,
+        "unit": "份"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "faceless_hunter_blood",
+        "name": "千面狩猎者的血液",
+        "count": 80,
+        "unit": "ml"
+      },
+      {
+        "id": "black_mandragora",
+        "name": "黑色曼陀罗汁液",
+        "count": 5,
+        "unit": "滴"
+      },
+      {
+        "id": "dragon_tooth_grass",
+        "name": "龙牙草粉末",
+        "count": 10,
+        "unit": "g"
+      },
+      {
+        "id": "naga_hair",
+        "name": "深海娜迦的头发",
+        "count": 3,
+        "unit": "根"
+      }
+    ],
+    "difficulty": 0.6
+  },
+  "fool_5": {
+    "id": "fool_5",
+    "name": "秘偶大师魔药",
+    "sequence": 5,
+    "pathway": "fool",
+    "description": "服食后可获得秘偶大师非凡能力。可以看见灵体之线，借助每个生物都存在的「灵体之线」找出隐藏的目标，像操纵木偶一样掌控目标。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 8000,
+    "mainMaterials": [
+      {
+        "id": "ancient_ghost_dust",
+        "name": "古老怨灵的粉尘",
+        "count": 1,
+        "unit": "份"
+      },
+      {
+        "id": "gargoyle_core",
+        "name": "六翼石像鬼的核心结晶",
+        "count": 1,
+        "unit": "个"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "golden_spring_water",
+        "name": "苏尼亚岛金色泉的泉水",
+        "count": 80,
+        "unit": "ml"
+      },
+      {
+        "id": "dragon_bark",
+        "name": "龙纹树的树皮",
+        "count": 10,
+        "unit": "g"
+      },
+      {
+        "id": "ghost_spirit",
+        "name": "古老怨灵的残余灵性",
+        "count": 1,
+        "unit": "份"
+      },
+      {
+        "id": "gargoyle_eyes",
+        "name": "六翼石像鬼的眼睛",
+        "count": 2,
+        "unit": "只"
+      }
+    ],
+    "difficulty": 0.7
+  },
+  "fool_4": {
+    "id": "fool_4",
+    "name": "诡法师魔药",
+    "sequence": 4,
+    "pathway": "fool",
+    "description": "服食后可获得诡法师非凡能力。能变成体型差距不太大的动物，可以将伤口和疾病转移给替身纸人，获得近千米的火焰跳跃距离。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 12000,
+    "mainMaterials": [
+      {
+        "id": "evil_eye",
+        "name": "诡术邪怪的主眼",
+        "count": 1,
+        "unit": "只"
+      },
+      {
+        "id": "spirit_soul",
+        "name": "灵界掠夺者的真实魂体",
+        "count": 1,
+        "unit": "份"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "evil_blood",
+        "name": "诡术邪怪的血液",
+        "count": 200,
+        "unit": "ml"
+      },
+      {
+        "id": "spirit_dust",
+        "name": "灵界掠夺者的粉尘",
+        "count": 30,
+        "unit": "g"
+      },
+      {
+        "id": "red_birch",
+        "name": "红毛桦的树皮",
+        "count": 10,
+        "unit": "g"
+      },
+      {
+        "id": "golden_vine",
+        "name": "金色葡萄藤",
+        "count": 1,
+        "unit": "截"
+      },
+      {
+        "id": "rubber_mask",
+        "name": "指头大小的自制橡皮面具",
+        "count": 1,
+        "unit": "张"
+      }
+    ],
+    "difficulty": 0.8
+  },
+  "fool_3": {
+    "id": "fool_3",
+    "name": "古代学者魔药",
+    "sequence": 3,
+    "pathway": "fool",
+    "description": "服食后可获得古代学者非凡能力。可以从过去的自己处借取力量，从历史的孔隙里召唤影像，将纸人的部位转移给目标。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 20000,
+    "mainMaterials": [
+      {
+        "id": "guardian_eyes",
+        "name": "福根之犬的眼睛",
+        "count": 2,
+        "unit": "只"
+      },
+      {
+        "id": "fog_wolf_heart",
+        "name": "雾之魔狼的絮化心脏",
+        "count": 1,
+        "unit": "颗"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "guardian_blood",
+        "name": "福根之犬的血液",
+        "count": 100,
+        "unit": "ml"
+      },
+      {
+        "id": "fog_wolf_crystal",
+        "name": "雾之魔狼的白霜结晶",
+        "count": 30,
+        "unit": "g"
+      },
+      {
+        "id": "ancient_records",
+        "name": "真实的古代历史记录",
+        "count": 1,
+        "unit": "批"
+      }
+    ],
+    "difficulty": 0.85
+  },
+  "fool_2": {
+    "id": "fool_2",
+    "name": "奇迹师魔药",
+    "sequence": 2,
+    "pathway": "fool",
+    "description": "服食后可获得奇迹师非凡能力。可以进一步利用历史迷雾，借助过去的灵之虫复活，对未来施加影响。",
+    "source": ["非凡者配置", "交易市场"],
+    "price": 50000,
+    "mainMaterials": [
+      {
+        "id": "dark_wolf_heart",
+        "name": "乌黯魔狼的心脏",
+        "count": 1,
+        "unit": "颗"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "dark_wolf_blood",
+        "name": "乌黯魔狼的血液",
+        "count": 300,
+        "unit": "ml"
+      },
+      {
+        "id": "time_worm",
+        "name": "时之虫",
+        "count": 1,
+        "unit": "条"
+      },
+      {
+        "id": "star_worm",
+        "name": "星之虫",
+        "count": 1,
+        "unit": "条"
+      }
+    ],
+    "difficulty": 0.9
+  },
+  "fool_1": {
+    "id": "fool_1",
+    "name": "诡秘侍者魔药",
+    "sequence": 1,
+    "pathway": "fool",
+    "description": "服食后可获得诡秘侍者非凡能力。可以唤起物品原本存在的灵体之线，将实体事物或抽象概念组合在一起。",
+    "source": ["非凡者配置"],
+    "price": 100000,
+    "mainMaterials": [
+      {
+        "id": "mysterious_servant",
+        "name": "诡秘侍者非凡特性",
+        "count": 1,
+        "unit": "份"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "spirit_world_items",
+        "name": "灵界特产",
+        "count": 9,
+        "unit": "种"
+      }
+    ],
+    "difficulty": 0.95
+  },
+  "fool_0": {
+    "id": "fool_0",
+    "name": "愚者魔药",
+    "sequence": 0,
+    "pathway": "fool",
+    "description": "服食后可成为愚者途径的真神。掌握盲目痴愚权柄，可以愚弄万物，展现不可思议的神迹。",
+    "source": ["非凡者配置"],
+    "price": 1000000,
+    "mainMaterials": [
+      {
+        "id": "fool_uniqueness",
+        "name": "愚者的唯一性",
+        "count": 1,
+        "unit": "份"
+      },
+      {
+        "id": "mysterious_servant_characteristics",
+        "name": "诡秘侍者非凡特性",
+        "count": 2,
+        "unit": "份"
+      }
+    ],
+    "auxiliaryMaterials": [
+      {
+        "id": "historical_fog",
+        "name": "历史迷雾",
+        "count": 0.25,
+        "unit": "份",
+        "description": "需要掌控至少四分之一个历史迷雾"
+      }
+    ],
+    "difficulty": 1.0
+  }
+} 

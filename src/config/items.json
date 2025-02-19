@@ -1,0 +1,354 @@
+{
+  "hornachis_crystal": {
+    "id": "hornachis_crystal",
+    "name": "霍纳奇斯灰山羊独角结晶",
+    "description": "来自霍纳奇斯灰山羊的独角，经过特殊处理制成的结晶",
+    "source": ["探索廷根市", "交易市场"],
+    "price": 1000,
+    "unit": "个"
+  },
+  "human_face_rose": {
+    "id": "human_face_rose",
+    "name": "人面玫瑰",
+    "description": "一种罕见的玫瑰，花瓣上隐约浮现人脸图案",
+    "source": ["探索廷根市", "交易市场"],
+    "price": 1500,
+    "unit": "朵"
+  },
+  "octopus_blood": {
+    "id": "octopus_blood",
+    "name": "拉瓦章鱼血液",
+    "description": "来自深海的拉瓦章鱼的新鲜血液，具有神秘的力量",
+    "source": ["探索廷根港口", "交易市场"],
+    "price": 200,
+    "unit": "ml"
+  },
+  "star_crystal": {
+    "id": "star_crystal",
+    "name": "星水晶",
+    "description": "在满月之夜采集的水晶，散发着星辰的微光",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 180,
+    "unit": "g"
+  },
+  "pure_water": {
+    "id": "pure_water",
+    "name": "纯水",
+    "description": "经过特殊处理的纯净水，不含任何杂质",
+    "source": ["交易市场"],
+    "price": 10,
+    "unit": "ml"
+  },
+  "night_flower_juice": {
+    "id": "night_flower_juice",
+    "name": "夜香草汁液",
+    "description": "从夜晚盛开的香草中提取的汁液，具有安神效果",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 50,
+    "unit": "滴"
+  },
+  "golden_mint": {
+    "id": "golden_mint",
+    "name": "金薄荷叶子",
+    "description": "叶片呈金色的特殊薄荷，散发着清凉的香气",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 30,
+    "unit": "片"
+  },
+  "aconite_juice": {
+    "id": "aconite_juice",
+    "name": "毒堇汁",
+    "description": "从毒堇草中提取的剧毒汁液，需谨慎使用",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 80,
+    "unit": "滴"
+  },
+  "dragon_blood_grass": {
+    "id": "dragon_blood_grass",
+    "name": "龙血草粉末",
+    "description": "龙血草研磨成的粉末，呈暗红色",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 120,
+    "unit": "g"
+  },
+  "mandragora_juice": {
+    "id": "mandragora_juice",
+    "name": "曼陀罗汁液",
+    "description": "从曼陀罗中提取的神秘汁液",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 800,
+    "unit": "滴"
+  },
+  "black_sunflower": {
+    "id": "black_sunflower",
+    "name": "黑边太阳花粉末",
+    "description": "花瓣边缘呈黑色的太阳花研磨而成的粉末",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 500,
+    "unit": "g"
+  },
+  "gold_cloak_grass": {
+    "id": "gold_cloak_grass",
+    "name": "金斗篷草粉末",
+    "description": "金斗篷草研磨成的粉末",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 600,
+    "unit": "g"
+  },
+  "faceless_hunter_brain": {
+    "id": "faceless_hunter_brain",
+    "name": "千面狩猎者异变的脑垂体",
+    "description": "从千面狩猎者身上获取的异变脑垂体",
+    "source": ["击杀千面狩猎者", "交易市场"],
+    "price": 3000,
+    "unit": "个"
+  },
+  "skin_shadow": {
+    "id": "skin_shadow",
+    "name": "人皮幽影的特性",
+    "description": "从人皮幽影中提取的非凡特性",
+    "source": ["击杀人皮幽影", "交易市场"],
+    "price": 3500,
+    "unit": "份"
+  },
+  "faceless_hunter_blood": {
+    "id": "faceless_hunter_blood",
+    "name": "千面狩猎者的血液",
+    "description": "千面狩猎者的新鲜血液",
+    "source": ["击杀千面狩猎者", "交易市场"],
+    "price": 1000,
+    "unit": "ml"
+  },
+  "black_mandragora": {
+    "id": "black_mandragora",
+    "name": "黑色曼陀罗汁液",
+    "description": "从黑色曼陀罗中提取的汁液",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 1200,
+    "unit": "滴"
+  },
+  "dragon_tooth_grass": {
+    "id": "dragon_tooth_grass",
+    "name": "龙牙草粉末",
+    "description": "龙牙草研磨成的粉末",
+    "source": ["探索廷根郊外", "交易市场"],
+    "price": 800,
+    "unit": "g"
+  },
+  "naga_hair": {
+    "id": "naga_hair",
+    "name": "深海娜迦的头发",
+    "description": "从深海娜迦身上获取的头发",
+    "source": ["探索深海", "交易市场"],
+    "price": 2000,
+    "unit": "根"
+  },
+  "ancient_ghost_dust": {
+    "id": "ancient_ghost_dust",
+    "name": "古老怨灵的粉尘",
+    "description": "从古老怨灵身上收集的神秘粉尘",
+    "source": ["击杀古老怨灵", "交易市场"],
+    "price": 5000,
+    "unit": "g"
+  },
+  "gargoyle_crystal": {
+    "id": "gargoyle_crystal",
+    "name": "六翼石像鬼的核心结晶",
+    "description": "六翼石像鬼体内的核心结晶，蕴含强大力量",
+    "source": ["击杀六翼石像鬼", "交易市场"],
+    "price": 6000,
+    "unit": "颗"
+  },
+  "golden_spring": {
+    "id": "golden_spring",
+    "name": "苏尼亚岛金色泉的泉水",
+    "description": "来自苏尼亚岛的神秘金色泉水",
+    "source": ["探索苏尼亚岛", "交易市场"],
+    "price": 2000,
+    "unit": "ml"
+  },
+  "dragon_bark": {
+    "id": "dragon_bark",
+    "name": "龙纹树的树皮",
+    "description": "龙纹树上剥下的树皮，带有龙形纹路",
+    "source": ["探索古树", "交易市场"],
+    "price": 1500,
+    "unit": "g"
+  },
+  "ghost_spirit": {
+    "id": "ghost_spirit",
+    "name": "古老怨灵的残余灵性",
+    "description": "古老怨灵消散后留下的灵性",
+    "source": ["击杀古老怨灵", "交易市场"],
+    "price": 4000,
+    "unit": "份"
+  },
+  "gargoyle_eyes": {
+    "id": "gargoyle_eyes",
+    "name": "六翼石像鬼的眼睛",
+    "description": "六翼石像鬼的一对眼睛，仍闪烁着诡异光芒",
+    "source": ["击杀六翼石像鬼", "交易市场"],
+    "price": 3000,
+    "unit": "对"
+  },
+  "evil_eye": {
+    "id": "evil_eye",
+    "name": "诡术邪怪的主眼",
+    "description": "诡术邪怪最重要的眼睛，蕴含强大的诡异力量",
+    "source": ["击杀诡术邪怪", "交易市场"],
+    "price": 8000,
+    "unit": "只"
+  },
+  "spirit_soul": {
+    "id": "spirit_soul",
+    "name": "灵界掠夺者的真实魂体",
+    "description": "灵界掠夺者的核心魂体",
+    "source": ["击杀灵界掠夺者", "交易市场"],
+    "price": 10000,
+    "unit": "份"
+  },
+  "evil_blood": {
+    "id": "evil_blood",
+    "name": "诡术邪怪的血液",
+    "description": "诡术邪怪的新鲜血液",
+    "source": ["击杀诡术邪怪", "交易市场"],
+    "price": 3000,
+    "unit": "ml"
+  },
+  "spirit_dust": {
+    "id": "spirit_dust",
+    "name": "灵界掠夺者的粉尘",
+    "description": "灵界掠夺者消散后留下的粉尘",
+    "source": ["击杀灵界掠夺者", "交易市场"],
+    "price": 2500,
+    "unit": "g"
+  },
+  "red_birch": {
+    "id": "red_birch",
+    "name": "红毛桦的树皮",
+    "description": "红毛桦树上的树皮，呈现血红色",
+    "source": ["探索古树", "交易市场"],
+    "price": 1000,
+    "unit": "g"
+  },
+  "golden_vine": {
+    "id": "golden_vine",
+    "name": "金色葡萄藤",
+    "description": "散发金色光芒的葡萄藤",
+    "source": ["探索遗迹", "交易市场"],
+    "price": 2000,
+    "unit": "截"
+  },
+  "rubber_mask": {
+    "id": "rubber_mask",
+    "name": "指头大小的自制橡皮面具",
+    "description": "用特殊材料制作的微型面具",
+    "source": ["非凡者制作", "交易市场"],
+    "price": 500,
+    "unit": "张"
+  },
+  "guardian_eyes": {
+    "id": "guardian_eyes",
+    "name": "福根之犬的眼睛",
+    "description": "源堡看守者的眼睛，蕴含古老的力量",
+    "source": ["击杀福根之犬", "交易市场"],
+    "price": 15000,
+    "unit": "只"
+  },
+  "fog_wolf_heart": {
+    "id": "fog_wolf_heart",
+    "name": "雾之魔狼的絮化心脏",
+    "description": "雾之魔狼的心脏，呈现絮状",
+    "source": ["击杀雾之魔狼", "交易市场"],
+    "price": 12000,
+    "unit": "颗"
+  },
+  "guardian_blood": {
+    "id": "guardian_blood",
+    "name": "福根之犬的血液",
+    "description": "源堡看守者的血液",
+    "source": ["击杀福根之犬", "交易市场"],
+    "price": 5000,
+    "unit": "ml"
+  },
+  "fog_wolf_crystal": {
+    "id": "fog_wolf_crystal",
+    "name": "雾之魔狼的白霜结晶",
+    "description": "雾之魔狼体内形成的白色结晶",
+    "source": ["击杀雾之魔狼", "交易市场"],
+    "price": 4000,
+    "unit": "g"
+  },
+  "ancient_records": {
+    "id": "ancient_records",
+    "name": "真实的古代历史记录",
+    "description": "记载真实历史的古老文献",
+    "source": ["探索遗迹", "交易市场"],
+    "price": 8000,
+    "unit": "批"
+  },
+  "dark_wolf_heart": {
+    "id": "dark_wolf_heart",
+    "name": "乌黯魔狼的心脏",
+    "description": "乌黯魔狼的心脏，蕴含愿望之力",
+    "source": ["击杀乌黯魔狼", "交易市场"],
+    "price": 20000,
+    "unit": "颗"
+  },
+  "dark_wolf_blood": {
+    "id": "dark_wolf_blood",
+    "name": "乌黯魔狼的血液",
+    "description": "乌黯魔狼的血液",
+    "source": ["击杀乌黯魔狼", "交易市场"],
+    "price": 8000,
+    "unit": "ml"
+  },
+  "time_worm": {
+    "id": "time_worm",
+    "name": "时之虫",
+    "description": "一种神秘的虫子，与时间有关",
+    "source": ["探索遗迹", "交易市场"],
+    "price": 25000,
+    "unit": "条"
+  },
+  "star_worm": {
+    "id": "star_worm",
+    "name": "星之虫",
+    "description": "一种神秘的虫子，与星辰有关",
+    "source": ["探索遗迹", "交易市场"],
+    "price": 25000,
+    "unit": "条"
+  },
+  "mysterious_servant": {
+    "id": "mysterious_servant",
+    "name": "诡秘侍者非凡特性",
+    "description": "诡秘侍者的非凡特性",
+    "source": ["击杀诡秘侍者"],
+    "price": 100000,
+    "unit": "份"
+  },
+  "spirit_world_items": {
+    "id": "spirit_world_items",
+    "name": "灵界特产",
+    "description": "来自灵界的特殊物品",
+    "source": ["探索灵界"],
+    "price": 30000,
+    "unit": "种"
+  },
+  "fool_uniqueness": {
+    "id": "fool_uniqueness",
+    "name": "愚者的唯一性",
+    "description": "愚者途径的唯一性",
+    "source": ["击杀愚者途径天使"],
+    "price": 1000000,
+    "unit": "份"
+  },
+  "historical_fog": {
+    "id": "historical_fog",
+    "name": "历史迷雾",
+    "description": "笼罩在历史中的神秘迷雾",
+    "source": ["探索历史遗迹"],
+    "price": 500000,
+    "unit": "份"
+  }
+} 
